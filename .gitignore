@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/qrcode-component/CopilotIndices/17.12.53.23981
+/.vs/qrcode-component/FileContentIndex
+/.vs/ProjectSettings.json
+/.vs/qrcode-component/v17/.wsuo
+/.vs/qrcode-component/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+/.vs/VSWorkspaceState.json
